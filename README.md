@@ -1,5 +1,5 @@
 👋 Hello! We are @bytesquill <br>
-Your coding needs, we deliver it. And not just on-time, you'll be sure of it as the most efficient solution. Delegate some of your tasks so that your team can focus on important.
+Your coding needs, we deliver it. And not just on-time, you'll be sure of it as the most efficient solution. Delegate some of your tasks so that your team can focus on what's most important.
 
 
 <!---
